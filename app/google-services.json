@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434373977256",
+    "firebase_url": "https://checkapp-67613.firebaseio.com",
+    "project_id": "checkapp-67613",
+    "storage_bucket": "checkapp-67613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434373977256:android:a79d5a1791852cd1",
+        "android_client_info": {
+          "package_name": "com.project.chalanthornc.check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434373977256-o0mk4b5h3hkap67ld3bpntnpsro4i3rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigP06IocVc54UiWnCX6hFLI3Eh6nCX0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434373977256-o0mk4b5h3hkap67ld3bpntnpsro4i3rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
